@@ -1,5 +1,4 @@
 import React from "react";
-import ReactWOW from "react-wow";
 import dev from "../assets/images/dev.png";
 
 const About = () => {
