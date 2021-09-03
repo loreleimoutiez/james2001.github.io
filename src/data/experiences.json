@@ -1,31 +1,31 @@
 [
     {
         "role": "Expert API Platform",
-        "date": "Fevier 2021 - Avril 2021",
+        "date": "Février 2021 - Avril 2021",
         "location": "Paris, France",
-        "company": "Theodo - M33 / Theodo",
-        "explanation": "Exposition de nouvelle ressource sur l'API existante avec une synchronisation des donnees legacy. Le but etant de migrer le prijet sur une structure API / React et quitter le code legacy"
+        "company": "Assoconnect",
+        "explanation": "Exposition de nouvelles ressources sur l'API existante avec une synchronisation des données legacy. Le but étant de migrer le projet sur une structure API / React et quitter le code legacy"
     },
     {
-        "role": "Developpeur Symfony",
-        "date": "Aout 2020 - Fevier 2021",
+        "role": "Développeur Symfony",
+        "date": "Août 2020 - Février 2021",
         "location": "Paris, France",
-        "company": "ekWateur",
-        "explanation": "Mise en place des appels API vers un nouveau WS Rest en vue d'une migration (avec feature flag) Audit sur la qualité de code. Mise en place d'outils de contrôle qualité"
+        "company": "EkWateur",
+        "explanation": "Mise en place des appels API vers un nouveau WS Rest en vue d'une migration (avec feature flag). Audit sur la qualité de code. Mise en place d'outils de contrôle qualité"
     },
     {
-        "role": "Developpeur Symfony",
+        "role": "Développeur Symfony",
         "date": "Mars 2020 - Mars 2020",
         "location": "Paris, France",
         "company": "DIMENSION 4",
-        "explanation": "Mise en place de deux connecteur a des Web Service, un en XML RPC et l'autre en REST. J'ai développé un composant et un Bundle pour le second."
+        "explanation": "Mise en place de deux connecteurs à des Web Service, un en XML RPC et l'autre en REST. J'ai développé un composant et un Bundle pour le second."
     },
     {
         "role": "Team Lead/Lead Dev",
         "date": "Juillet 2014 - Juillet 2020",
         "location": "Puteaux, France",
         "company": "Manymore",
-        "explanation": "Mise en place du solution de dématérialisation des actes de gestion d'assurance vie pour AXA et Cardif. Réalisation d'un extranet pour la visualisation des contrats / clients et commissions."
+        "explanation": "Mise en place de solutions de dématérialisation des actes de gestion d'assurance vie pour AXA et Cardif. Réalisation d'un extranet pour la visualisation des contrats / clients et commissions."
     },
     {
         "role": "Développeur Symfony",

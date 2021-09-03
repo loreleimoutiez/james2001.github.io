@@ -10,7 +10,7 @@ const Main = () => {
           <div className="col-12">
             <div className="header-content-wraper wow fadeInUp" data-wow-delay="0s">
               <h1>Stéphane <span>Rathgeber</span></h1>
-              <h5>Teach Lead Symfony</h5>
+              <h5>Tech Lead Symfony</h5>
               <div className="profile-photo wow fadeInUp" data-wow-delay="0.1s">
                 <img src={profile} alt="#" />
               </div>

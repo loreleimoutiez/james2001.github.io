@@ -16,7 +16,7 @@ const About = () => {
             </div>
             <p>Développeur PHP depuis plus de 10 ans et développeur Symfony depuis sa version 1.3, j'ai eu l'occasion de travailler avec de grandes sociétés (Renault, Accor, My Money Bank, AXA, Cardif, Maif).</p>
             <p>J'ai accompagné et fait monter en compétence, par mon expertise, plusieurs dizaines de développeurs.</p>
-            <p>e suis capable de commencer une application "from scratch" ou d'en reprendre une existante pour la faire évoluer. Je peux également mettre en place un système de déploiement continu.</p>
+            <p>Je suis capable de commencer une application "from scratch" ou d'en reprendre une existante pour la faire évoluer. Je peux également mettre en place un système de déploiement continu.</p>
           </div>
         </div>
       </div>

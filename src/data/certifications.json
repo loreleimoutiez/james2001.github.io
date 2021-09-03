@@ -1,6 +1,6 @@
 [
     {
-        "name": "Optimisez votre deploiement en creant des conteneurs docker",
+        "name": "Optimisez votre déploiement en créant des conteneurs docker",
         "year": 2019
     },
     {
@@ -8,15 +8,15 @@
         "year": 2015
     },
     {
-        "name": "Apprenez a career votre site web avec HTML5 et CSS3",
+        "name": "Apprenez a créer votre site web avec HTML5 et CSS3",
         "year": 2014
     },
     {
-        "name": "Gerez votre code avec Git et Github",
+        "name": "Gérez votre code avec Git et Github",
         "year": 2014
     },
     {
-        "name": "Integrateur Web",
+        "name": "Intégrateur web",
         "year": 2014
     }
 ]
