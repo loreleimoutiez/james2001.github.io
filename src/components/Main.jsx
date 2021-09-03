@@ -15,7 +15,7 @@ const Main = () => {
                 <img src={profile} alt="#" />
               </div>
               <div className="arrow-down wow fadeInUp" data-wow-delay="0.2s">
-                <a href="#siuis-je">
+                <a href="#qui-suis-je">
                   <img src={arrow_down} alt="#" />
                 </a>
               </div>

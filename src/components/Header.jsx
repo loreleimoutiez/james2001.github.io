@@ -7,14 +7,14 @@ const Header = () => {
     <Fragment>
     <nav className="navbar navbar-expand-lg fixed-top">
       <div className="container">
-        <a className="navbar-brand" href="#">Stéphane <span>Rathgeber</span></a>
+        <span className="navbar-brand">Stéphane <span>Rathgeber</span></span>
         <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobile-menu" aria-controls="mobile-menu">
           <img src={menu} alt="menu" />
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link active" href="#">À propos</a>
+              <a className="nav-link active" href="#qui-suis-je">À propos</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#competences">Compétences</a>
@@ -45,7 +45,7 @@ const Header = () => {
       <div className="offcanvas-body">
         <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link active" href="#">À propos</a>
+              <a className="nav-link active" href="#qui-suis-je">À propos</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#competences">Compétences</a>

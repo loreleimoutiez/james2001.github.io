@@ -114,7 +114,7 @@ a.nav-link.nav-button:after {
     transform: translateY(-30px);
   }
 }
-.siuis-je-content p {
+.qui-suis-je-content p {
   text-align: center;
   color: #8c8c8c;
   font-size: 14px;
@@ -140,20 +140,20 @@ a.nav-link.nav-button:after {
   height: 2px;
   transform: translate(-50%, 0px);
 }
-.siuis-je-content {
+.qui-suis-je-content {
   width: 650px;
   margin: 0 auto;
 }
-section#siuis-je {
+section#qui-suis-je {
   padding: 90px 0px;
 }
-.siuis-je-content .section-title {
+.qui-suis-je-content .section-title {
   margin-bottom: 50px;
 }
-section#siuis-je .col-12 {
+section#qui-suis-je .col-12 {
   position: relative;
 }
-.suis-je-image {
+.qui-suis-je-image {
   position: absolute;
   left: 0;
   top: 50%;

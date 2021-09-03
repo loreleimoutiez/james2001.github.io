@@ -3,14 +3,14 @@ import dev from "../assets/images/dev.png";
 
 const About = () => {
   return (
-    <section id="siuis-je">
+    <section id="qui-suis-je">
     <div className="container">
       <div className="row">
         <div className="col-12">
-          <div className="suis-je-image">
-            <img src={dev} alt="#" />
+          <div className="qui-suis-je-image">
+            <img src={dev} alt="moi" />
           </div>
-          <div className="siuis-je-content wow fadeInUp" data-wow-delay="0s">
+          <div className="qui-suis-je-content wow fadeInUp" data-wow-delay="0s">
             <div className="section-title wow fadeInUp" data-wow-delay="0.1s">
               <h2>Qui suis-je ?</h2>
             </div>

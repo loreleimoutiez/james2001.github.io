@@ -98,18 +98,18 @@
   .header-content {
     min-height: 700px;
   }
-  .siuis-je-content {
+  .qui-suis-je-content {
     width: 100%;
     margin: 0 auto;
   }
-  .suis-je-image {
+  .qui-suis-je-image {
     position: absolute;
     left: 50%;
     top: inherit;
     transform: translate(-50%, 0%);
     bottom: -110px;
   }
-  .suis-je-image img,
+  .qui-suis-je-image img,
   .tree-image img,
   .mailbox-image img {
     width: 100px;
@@ -130,7 +130,7 @@
   .certifications-wraper > div {
     width: 100%;
   }
-  section#siuis-je {
+  section#qui-suis-je {
     padding: 90px 0px;
     padding-bottom: 150px;
   }
@@ -194,7 +194,7 @@
     margin-top: 50px;
     margin-bottom: 70px;
   }
-  .suis-je-image img,
+  .qui-suis-je-image img,
   .tree-image img,
   .mailbox-image img,
   .graduation-image img,
@@ -355,14 +355,14 @@
     background: #f3f3f3;
     padding-bottom: 60px;
   }
-  section#siuis-je {
+  section#qui-suis-je {
     padding: 60px 0px;
     padding-bottom: 150px;
   }
   section#contact {
     padding-bottom: 0px;
   }
-  .suis-je-image img {
+  .qui-suis-je-image img {
     width: 80px;
   }
   .mobile-menu-wraper a.nav-link {
@@ -400,7 +400,7 @@
     text-align: center;
     margin-top: 80px;
   }
-  .siuis-je-content .section-title {
+  .qui-suis-je-content .section-title {
     margin-bottom: 30px;
   }
   .competences-image img {
@@ -413,7 +413,7 @@
   .experiances-main {
     margin-top: 40px;
   }
-  .suis-je-image img,
+  .qui-suis-je-image img,
   .tree-image img,
   .mailbox-image img,
   .graduation-image img,
