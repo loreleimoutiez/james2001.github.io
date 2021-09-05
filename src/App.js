@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.css";
 import "./App.scss"
-import "./css/animate.css"
+import "animate.css"
 import Header from "./components/Header";
 import Main from "./components/Main";
 import About from "./components/About";
