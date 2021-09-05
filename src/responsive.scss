@@ -1,0 +1,530 @@
+@media (max-width: 1399.98px) {
+  a.navbar-brand {
+    font-size: 22px;
+  }
+  a.nav-link {
+    font-size: 13px;
+  }
+}
+@media (max-width: 1199.98px) {
+  a.nav-link {
+    margin-left: 22px;
+  }
+  a.navbar-brand {
+    font-size: 20px;
+  }
+  .competences-part {
+    width: 32%;
+  }
+  .competences-rating {
+    span {
+      width: 17px;
+      height: 17px;
+      border-radius: 100%;
+      margin-right: 2px;
+    }
+  }
+  .competences-name {
+    width: 40%;
+  }
+  .competences-item-wraper {
+    width: 60%;
+  }
+  .competences-item {
+    h3 {
+      font-size: 14px;
+    }
+  }
+}
+@media (max-width: 991.98px) {
+  button.navbar-toggler {
+    img {
+      width: 30px;
+    }
+    padding: 0;
+  }
+  .mobile-menu-wraper {
+    background: $third;
+    a.nav-link {
+      margin-left: 0;
+      margin-left: 0;
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+    a.nav-link.nav-button {
+      padding: 0px !important;
+      background: none !important;
+      &:after {
+        display: block;
+      }
+    }
+    button {
+      background: transparent;
+      border: none;
+      margin-top: 10px;
+      margin-right: 5px;
+      img {
+        width: 25px;
+        height: auto;
+      }
+    }
+    .offcanvas-header {
+      text-align: right;
+      display: block;
+    }
+    .offcanvas-body {
+      padding: 20px 50px;
+    }
+  }
+  .mobile-menu-wraper.offcanvas-end {
+    width: 350px;
+    border: none;
+  }
+  .navbar-toggler {
+    &:focus {
+      text-decoration: none;
+      outline: 0;
+      box-shadow: none;
+    }
+  }
+  .offcanvas-backdrop.show {
+    opacity: 0;
+  }
+  a.navbar-brand {
+    font-size: 24px;
+  }
+  .arrow-down {
+    margin-top: 80px;
+  }
+  .header-content {
+    min-height: 700px;
+  }
+  .siuis-je-content {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .suis-je-image {
+    position: absolute;
+    left: 50%;
+    top: inherit;
+    transform: translate(-50%, 0%);
+    bottom: -110px;
+    img {
+      width: 100px;
+    }
+  }
+  .tree-image {
+    img {
+      width: 100px;
+    }
+  }
+  .mailbox-image {
+    img {
+      width: 100px;
+    }
+  }
+  .competences-wraper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 340px;
+  }
+  .competences-part {
+    width: 46%;
+  }
+  .certifications-wraper {
+    display: block;
+    margin-top: 80px;
+    > div {
+      width: 100%;
+    }
+  }
+  section#siuis-je {
+    padding: 90px 0px;
+    padding-bottom: 150px;
+  }
+  .certifications-left {
+    text-align: left;
+    width: 278px !important;
+    height: 30px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+  .contact-wraper {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  .input-box {
+    input {
+      width: 32%;
+    }
+  }
+  .contact-info {
+    width: 440px;
+    margin-top: 50px;
+    margin-bottom: 35px;
+  }
+  div#mobile-menu {
+    display: block;
+  }
+}
+@media (max-width: 767.98px) {
+  .competences-image {
+    img {
+      margin-right: 0;
+      width: 80px;
+    }
+  }
+  .competences-part {
+    width: 330px;
+    margin: 0 auto;
+  }
+  .header-content-wraper {
+    h5 {
+      font-size: 18px;
+    }
+  }
+  .experiance-office {
+    text-align: left;
+    padding-left: 40px;
+  }
+  .experiances-name {
+    text-align: right;
+    padding-right: 40px;
+  }
+  .input-box {
+    flex-wrap: wrap;
+    input {
+      width: 100%;
+      margin-top: 30px;
+    }
+  }
+  .contact-wraper {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 70px;
+  }
+  .suis-je-image {
+    img {
+      width: 80px;
+    }
+  }
+  .tree-image {
+    img {
+      width: 80px;
+    }
+  }
+  .mailbox-image {
+    img {
+      width: 80px;
+    }
+  }
+  .graduation-image {
+    img {
+      width: 80px;
+    }
+  }
+  .contact-info {
+    img {
+      width: 30px;
+      margin-right: 10px;
+    }
+    width: 330px;
+    margin-top: 50px;
+    margin-bottom: 35px;
+  }
+  .competences-wraper {
+    height: auto;
+  }
+}
+@media (max-width: 575.98px) {
+  .header-content-wraper {
+    h1 {
+      font-size: 30px;
+    }
+    h5 {
+      font-size: 16px;
+      margin-top: 15px;
+    }
+  }
+  .profile-photo {
+    margin-top: 50px;
+  }
+  .experiances-name {
+    h3 {
+      font-size: 13px;
+    }
+    p {
+      font-size: 11px;
+    }
+    text-align: right;
+    padding-right: 15px;
+  }
+  .experiance-position {
+    width: 40% !important;
+  }
+  .experiance-office {
+    width: 60% !important;
+    padding-left: 20px;
+    h3 {
+      font-size: 14px;
+      font-weight: 300;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 11px;
+    }
+  }
+  .experiances-item {
+    &:before {
+      content: "";
+      position: absolute;
+      width: 2px;
+      height: 100%;
+      background: $border;
+      left: 40%;
+      top: 0;
+      transform: translate(-50%, 0px);
+    }
+    &:after {
+      content: "";
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      background: $main;
+      left: 40%;
+      top: 0;
+      transform: translate(-50%, 0px);
+      border-radius: 100%;
+    }
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding-bottom: 30px;
+  }
+  .formations-item {
+    text-align: center;
+    margin-top: 15px;
+  }
+  .section-title {
+    h2 {
+      font-size: 22px;
+      &:after {
+        bottom: -10px;
+      }
+    }
+  }
+  .certifications-list {
+    p {
+      font-size: 11px;
+    }
+  }
+  .certifications-left {
+    img {
+      width: 310px;
+    }
+    width: 215px !important;
+    height: 20px;
+    overflow: hidden;
+    margin-bottom: 11px;
+  }
+  .certifications-wraper {
+    display: block;
+    margin-top: 40px;
+  }
+  .input-box {
+    input {
+      width: 100%;
+      margin-top: 15px;
+    }
+  }
+  .contact-wraper {
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    form {
+      textarea {
+        margin-top: 20px;
+      }
+    }
+  }
+  .contact-info {
+    img {
+      width: 20px;
+      margin-right: 2px;
+    }
+    width: 290px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+  }
+  .mailbox-image {
+    img {
+      width: 55px;
+    }
+  }
+  .footer-wraper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  .copyright {
+    margin-top: 20px;
+    p {
+      text-align: center;
+    }
+  }
+  section#contact {
+    padding: 60px 0px;
+    padding-bottom: 0px;
+  }
+  section#certifications {
+    padding: 60px 0px;
+  }
+  section#formations {
+    padding: 60px 0px;
+  }
+  section#experiances {
+    padding: 60px 0px;
+    padding-bottom: 0;
+    .container {
+      .row {
+        padding-bottom: 60px;
+      }
+    }
+  }
+  section#competences {
+    background: $section;
+    padding-bottom: 60px;
+  }
+  section#siuis-je {
+    padding: 60px 0px;
+    padding-bottom: 150px;
+  }
+  .suis-je-image {
+    img {
+      width: 80px;
+    }
+  }
+  .mobile-menu-wraper {
+    a.nav-link {
+      margin-left: 0;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .offcanvas-body {
+      padding: 20px 30px;
+    }
+    .offcanvas-header {
+      text-align: right;
+      display: block;
+      padding-bottom: 0;
+    }
+  }
+  .experiances-main {
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }
+}
+@media (max-width: 450px) {
+  a.navbar-brand {
+    font-size: 20px;
+  }
+  button.navbar-toggler {
+    img {
+      width: 25px;
+    }
+  }
+  .header-content-wraper {
+    h1 {
+      font-size: 25px;
+    }
+    text-align: center;
+    margin-top: 80px;
+  }
+  .siuis-je-content {
+    .section-title {
+      margin-bottom: 30px;
+    }
+  }
+  .competences-image {
+    img {
+      width: 50px;
+      width: 60px;
+    }
+  }
+  .competences-part {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .experiances-main {
+    margin-top: 40px;
+    margin-top: 70px;
+    margin-bottom: 25px;
+  }
+  .suis-je-image {
+    img {
+      width: 60px;
+    }
+  }
+  .tree-image {
+    img {
+      width: 60px;
+    }
+  }
+  .mailbox-image {
+    img {
+      width: 60px;
+      width: 40px !important;
+    }
+  }
+  .graduation-image {
+    img {
+      width: 60px;
+    }
+  }
+  .certifications-left {
+    img {
+      width: 270px;
+    }
+    width: 186px !important;
+    height: 20px;
+  }
+  .contact-wraper {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  .contact-info {
+    a {
+      font-size: 11px;
+    }
+    width: 75%;
+    img {
+      width: 15px;
+      margin-right: 0px;
+    }
+  }
+  .mobile-menu-wraper.offcanvas-end {
+    width: 270px;
+    border: none;
+  }
+  .mobile-menu-wraper {
+    button {
+      img {
+        width: 20px;
+        height: auto;
+      }
+    }
+  }
+  .form-btn {
+    button {
+      padding: 10px 60px;
+    }
+  }
+}
