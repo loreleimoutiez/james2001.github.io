@@ -123,7 +123,8 @@ nav.navbar.navbar-expand-lg {
     color: $gray;
     font-size: 14px;
   }
-  width: 650px;
+  width: 60%;
+  max-width: 650px;
   margin: 0 auto;
   .section-title {
     margin-bottom: 50px;
@@ -363,6 +364,9 @@ section#certifications {
     margin-bottom: 10px;
     span {
       color: $third;
+    }
+    span::before {
+      content: "// ";
     }
   }
 }

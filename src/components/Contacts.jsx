@@ -1,6 +1,6 @@
 import React from "react";
 import contact from "../assets/images/contact.png";
-import arrowUp from "../assets/images/arrow-up.png";
+import arrowUp from "../assets/images/rotated-arrow.png";
 
 const initialState = {message: '', email: '', name: '', subject: ''};
 class Contacts extends React.Component {

@@ -99,16 +99,15 @@
   .header-content {
     min-height: 700px;
   }
-  .siuis-je-content {
+  .suis-je-content {
     width: 100%;
     margin: 0 auto;
   }
-  .suis-je-image {
+  .qui-suis-je-image {
     position: absolute;
-    left: 50%;
     top: inherit;
-    transform: translate(-50%, 0%);
-    bottom: -110px;
+    transform: translate(50%, -50%);
+
     img {
       width: 100px;
     }
@@ -207,7 +206,7 @@
     margin-top: 50px;
     margin-bottom: 70px;
   }
-  .suis-je-image {
+  .qui-suis-je-image {
     img {
       width: 80px;
     }
@@ -405,7 +404,7 @@
     padding: 60px 0px;
     padding-bottom: 150px;
   }
-  .suis-je-image {
+  .qui-suis-je-image {
     img {
       width: 80px;
     }
@@ -446,14 +445,13 @@
     text-align: center;
     margin-top: 80px;
   }
-  .siuis-je-content {
+  .suis-je-content {
     .section-title {
       margin-bottom: 30px;
     }
   }
   .competences-image {
     img {
-      width: 50px;
       width: 60px;
     }
   }
@@ -466,7 +464,7 @@
     margin-top: 70px;
     margin-bottom: 25px;
   }
-  .suis-je-image {
+  .qui-suis-je-image {
     img {
       width: 60px;
     }

@@ -10,14 +10,14 @@
         "role": "Développeur Symfony",
         "date": "Août 2020 - Février 2021",
         "location": "Paris, France",
-        "company": "EkWateur",
+        "company": "ekWateur",
         "explanation": "Mise en place des appels API vers un nouveau WS Rest en vue d'une migration (avec feature flag). Audit sur la qualité de code. Mise en place d'outils de contrôle qualité"
     },
     {
         "role": "Développeur Symfony",
         "date": "Mars 2020 - Mars 2020",
         "location": "Paris, France",
-        "company": "DIMENSION 4",
+        "company": "Dimension 4",
         "explanation": "Mise en place de deux connecteurs à des Web Service, un en XML RPC et l'autre en REST. J'ai développé un composant et un Bundle pour le second."
     },
     {

@@ -1,7 +1,7 @@
 import React from "react";
 import profile from "../assets/images/profil.png";
 import profile2 from "../assets/images/profil-2.png";
-import arrow_down from "../assets/images/arrow-down.png";
+import arrow_down from "../assets/images/curly-arrow.png";
 
 const imagesPath = {
   smile: profile,
