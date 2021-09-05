@@ -26,13 +26,13 @@ class Main extends React.Component {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <div className="header-content-wraper wow fadeInUp" data-wow-delay="0s">
+              <div className="header-content-wraper wow animate__animated animate__zoomInUp" data-wow-delay="0s">
                 <h1>Stéphane <span>Rathgeber</span></h1>
                 <h5>Tech Lead Symfony</h5>
-                <div className="profile-photo wow fadeInUp" data-wow-delay="0.1s">
+                <div className="profile-photo wow animate__animated animate__zoomInUp" data-wow-delay="0.1s">
                   <img src={imagesPath[imageName]} alt="me" onClick={this.toggleImage } />
                 </div>
-                <div className="arrow-down wow fadeInUp" data-wow-delay="0.2s">
+                <div className="arrow-down wow animate__animated animate__zoomInUp" data-wow-delay="0.2s">
                   <a href="#qui-suis-je">
                     <img src={arrow_down} alt="down" />
                   </a>

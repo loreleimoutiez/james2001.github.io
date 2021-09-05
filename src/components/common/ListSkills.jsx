@@ -3,7 +3,7 @@ import RatingDot from "./RatingDot";
 
 const ListSkills = ({ title, arr }) => {
   return (
-    <div className="competences-item-main wow fadeInLeft" data-wow-delay="0s">
+    <div className="competences-item-main wow animate__animated animate__fadeInLeft" data-wow-delay="0s">
     <div className="competences-name">
         <h4>{title}</h4>
       </div>

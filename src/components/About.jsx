@@ -10,8 +10,8 @@ const About = () => {
           <div className="qui-suis-je-image">
             <img src={dev} alt="moi" />
           </div>
-          <div className="qui-suis-je-content wow fadeInUp" data-wow-delay="0s">
-            <div className="section-title wow fadeInUp" data-wow-delay="0.1s">
+          <div className="qui-suis-je-content wow animate__animated animate__fadeInUp" data-wow-delay="0s">
+            <div className="section-title wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
               <h2>Qui suis-je ?</h2>
             </div>
             <p>Développeur PHP depuis plus de 10 ans et développeur Symfony depuis sa version 1.3, j'ai eu l'occasion de travailler avec de grandes sociétés (Renault, Accor, My Money Bank, AXA, Cardif, Maif).</p>

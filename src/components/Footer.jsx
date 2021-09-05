@@ -10,10 +10,10 @@ const Footer = () => {
         <div className="row">
           <div className="col-12">
             <div className="footer-wraper">
-              <div className="copyright wow fadeInUp" data-wow-delay="0.1s">
+              <div className="copyright wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
                 <p>© 2021 Stéphane Rathgeber</p>
               </div>
-              <div className="footer-social wow fadeInUp" data-wow-delay="0.3s">
+              <div className="footer-social wow animate__animated animate__fadeInUp" data-wow-delay="0.3s">
                 <a href="https://www.instagram.com/defispatisserie" className="link-instagram">
                   <img src={instagram} alt="instagram" />
                 </a>

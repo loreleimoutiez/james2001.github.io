@@ -9,7 +9,7 @@ const Experiences = () => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="section-title wow fadeInUp" data-wow-delay="0.1s">
+            <div className="section-title wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
               <h2>Expériences</h2>
             </div>
           </div>

@@ -4,7 +4,7 @@ import location from "../../assets/images/pin.svg";
 
 const ExpTree = ({ data }) => {
   return (
-    <div className="experiances-item wow fadeInUp" data-wow-delay="0.1s">
+    <div className="experiances-item wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
     <div className="experiance-position">
       <div className="experiances-name">
         <h3>{data.role}</h3>
