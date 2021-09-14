@@ -1,13 +1,14 @@
 import React, { Fragment } from "react";
 import close from "../assets/images/close.svg";
 import menu from "../assets/images/menu.svg";
+import user from "../data/user.json";
 
 const Header = () => {
   return (
     <Fragment>
     <nav className="navbar navbar-expand-lg fixed-top">
       <div className="container">
-        <span className="navbar-brand">Stéphane <span>Rathgeber</span></span>
+        <span className="navbar-brand">{user.name}</span>
         <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobile-menu" aria-controls="mobile-menu">
           <img src={menu} alt="menu" />
         </button>

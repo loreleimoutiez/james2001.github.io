@@ -1,17 +1,17 @@
 import React from "react";
-import profile from "../assets/images/profil.png";
 import profile2 from "../assets/images/profil-2.png";
 import arrow_down from "../assets/images/curly-arrow.png";
+import user from "../data/user.json";
 
 const imagesPath = {
-  smile: profile,
+  smile: user.picture,
   smile2: profile2
 }
 
 class Main extends React.Component {
 
   state = {
-    smile: false
+    smile: true
   }
   toggleImage = () => {
     this.setState(state => ({ smile: !state.smile }))
@@ -27,7 +27,7 @@ class Main extends React.Component {
           <div className="row">
             <div className="col-12">
               <div className="header-content-wraper wow animate__animated animate__zoomInUp" data-wow-delay="0s">
-                <h1>Stéphane <span>Rathgeber</span></h1>
+                <h1>{user.name}</h1>
                 <h5>Tech Lead Symfony</h5>
                 <div className="profile-photo wow animate__animated animate__zoomInUp" data-wow-delay="0.1s">
                   <img src={imagesPath[imageName]} alt="me" onClick={this.toggleImage } />
