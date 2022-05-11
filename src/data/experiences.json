@@ -1,4 +1,11 @@
-[
+[    
+   {
+      "role": "Développeur Sylius",
+      "date": "Septembre 2021 - Juin 2022",
+      "location": "Paris, France",
+      "company": "Aix-en-Provence",
+      "explanation": "Création d'une plateforme de vente en ligne multilingue. Ajout de spécificité du client sur Sylius"
+   },
    {
       "role":"Developeur Symfony/API",
       "date":"Mai 2021 - Septembre 2021",
