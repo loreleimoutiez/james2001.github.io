@@ -2,8 +2,8 @@
    {
       "role": "Développeur Sylius",
       "date": "Septembre 2021 - Juin 2022",
-      "location": "Paris, France",
-      "company": "Aix-en-Provence",
+      "location": "Aix-en-Provence, France",
+      "company": "Onatera",
       "explanation": "Création d'une plateforme de vente en ligne multilingue. Ajout de spécificité du client sur Sylius"
    },
    {
@@ -45,7 +45,7 @@
       "role":"Développeur Symfony",
       "date":"Novembre 2008 - Juin 2014",
       "location":"La Garenne-Colombes, France",
-      "company":"ORCA FORMATION",
+      "company":"Orca Formation",
       "explanation":"Création de l'application de gestion des ventes et des commissions sur les véhicules pour Renault. Application utilisée par tout le réseau Renault France. Simulateur de crédit/LOA avec gestion des barèmes pour My Money Bank."
    }
 ]
