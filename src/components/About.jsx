@@ -1,28 +1,35 @@
 import React from "react";
 import dev from "../assets/images/dev.png";
+import { withTranslation } from "react-i18next";
 
-const About = () => {
+const About = ({ t }) => {
   return (
     <section id="qui-suis-je">
-    <div className="container">
-      <div className="row">
-        <div className="col-12">
-          <div className="qui-suis-je-image">
-            <img src={dev} alt="moi" />
-          </div>
-          <div className="qui-suis-je-content wow animate__animated animate__fadeInUp" data-wow-delay="0s">
-            <div className="section-title wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
-              <h2>Qui suis-je ?</h2>
+      <div className="container">
+        <div className="row">
+          <div className="col-12">
+            <div className="qui-suis-je-image">
+              <img src={dev} alt="moi" />
             </div>
-            <p>Développeur PHP depuis plus de 10 ans et développeur Symfony depuis sa version 1.3, j'ai eu l'occasion de travailler avec de grandes sociétés (Renault, Accor, My Money Bank, AXA, Cardif, Maif).</p>
-            <p>J'ai accompagné et fait monter en compétence, par mon expertise, plusieurs dizaines de développeurs.</p>
-            <p>Je suis capable de commencer une application "from scratch" ou d'en reprendre une existante pour la faire évoluer. Je peux également mettre en place un système de déploiement continu.</p>
+            <div
+              className="qui-suis-je-content wow animate__animated animate__fadeInUp"
+              data-wow-delay="0s"
+            >
+              <div
+                className="section-title wow animate__animated animate__fadeInUp"
+                data-wow-delay="0.1s"
+              >
+                <h2>{t("title.about")}</h2>
+              </div>
+              <p>{t("about.part_1")}</p>
+              <p>{t("about.part_2")}</p>
+              <p>{t("about.part_3")}</p>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
   );
 };
 
-export default About;
+export default withTranslation("common")(About);
