@@ -1,0 +1,51 @@
+[
+   {
+      "role": "Développeur Sylius",
+      "date": "Septembre 2021 - Juin 2022",
+      "location": "Aix-en-Provence, France",
+      "company": "Onatera",
+      "explanation": "Création d'une plateforme de vente en ligne multilingue. Ajout de spécificité du client sur Sylius"
+   },
+   {
+      "role":"Developeur Symfony/API",
+      "date":"Mai 2021 - Septembre 2021",
+      "location":"Paris, France",
+      "company":"Yousign",
+      "explanation":"Mise en place d'un Traking d'utilisateurs avec l'outils Segment. Evolution sur la signature avancée, meilleure gestion d'erreurs, améliorations du suivi (notifications par e-mail)"
+   },
+   {
+      "role":"Expert API Platform",
+      "date":"Février 2021 - Avril 2021",
+      "location":"Paris, France",
+      "company":"Assoconnect",
+      "explanation":"Exposition de nouvelles ressources sur l'API existante avec une synchronisation des données legacy. Le but étant de migrer le projet sur une structure API / React et quitter le code legacy"
+   },
+   {
+      "role":"Développeur Symfony",
+      "date":"Août 2020 - Février 2021",
+      "location":"Paris, France",
+      "company":"ekWateur",
+      "explanation":"Mise en place des appels API vers un nouveau WS Rest en vue d'une migration (avec feature flag). Audit sur la qualité de code. Mise en place d'outils de contrôle qualité"
+   },
+   {
+      "role":"Développeur Symfony",
+      "date":"Mars 2020 - Mars 2020",
+      "location":"Paris, France",
+      "company":"Dimension 4",
+      "explanation":"Mise en place de deux connecteurs à des Web Service, un en XML RPC et l'autre en REST. J'ai développé un composant et un Bundle pour le second."
+   },
+   {
+      "role":"Team Lead/Lead Dev",
+      "date":"Juillet 2014 - Juillet 2020",
+      "location":"Puteaux, France",
+      "company":"Manymore",
+      "explanation":"Mise en place de solutions de dématérialisation des actes de gestion d'assurance vie pour AXA et Cardif. Réalisation d'un extranet pour la visualisation des contrats / clients et commissions."
+   },
+   {
+      "role":"Développeur Symfony",
+      "date":"Novembre 2008 - Juin 2014",
+      "location":"La Garenne-Colombes, France",
+      "company":"Orca Formation",
+      "explanation":"Création de l'application de gestion des ventes et des commissions sur les véhicules pour Renault. Application utilisée par tout le réseau Renault France. Simulateur de crédit/LOA avec gestion des barèmes pour My Money Bank."
+   }
+]

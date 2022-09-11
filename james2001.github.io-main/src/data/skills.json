@@ -1,0 +1,104 @@
+[
+    {
+      "category": "Languages",
+      "detail": [
+        {
+          "title": "PHP",
+          "value": 4
+        },
+        {
+          "title": "JavaScript",
+          "value": 3
+        },
+        {
+          "title": "HTML",
+          "value": 4
+        },
+        {
+          "title": "CSS",
+          "value": 3
+        },
+        {
+          "title": "Java",
+          "value": 2
+        },
+        {
+          "title": "SQL",
+          "value": 3
+        }
+      ]
+    },
+    {
+        "category":"Frameworks",
+        "detail": [
+        {
+          "title": "Symfony",
+          "value": 4
+        },
+        {
+          "title": "Jquery",
+          "value": 3
+        },
+        {
+          "title": "Bootstrap",
+          "value": 2
+        },
+        {
+          "title": "React",
+          "value": 2
+        }
+      ]
+    },
+    {
+        "category":"Databases",
+        "detail": [
+        {
+          "title": "MySQL",
+          "value": 3
+        },
+        {
+          "title": "MongoDB",
+          "value": 1
+        }
+      ]
+    },
+    {
+        "category":"Architecture",
+        "detail": [
+        {
+          "title": "REST",
+          "value": 4
+        },
+        {
+          "title": "API",
+          "value": 4
+        }
+      ]
+    },
+    {
+        "category":"Version Control",
+        "detail": [
+        {
+          "title": "Git",
+          "value": 4
+        },
+        {
+          "title": "GitHub",
+          "value": 3
+        },
+        {
+          "title": "Gitlab",
+          "value": 3
+        }
+      ]
+    },
+    {
+        "category":"Containerization",
+        "detail": [
+        {
+          "title": "Docker",
+          "value": 3
+        }
+      ]
+    }
+  ]
