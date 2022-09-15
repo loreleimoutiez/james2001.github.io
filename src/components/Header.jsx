@@ -3,12 +3,14 @@ import close from "../assets/images/close.svg";
 import menu from "../assets/images/menu.svg";
 import user from "../data/user.json";
 import { withTranslation } from "react-i18next";
+import { RibbonContainer,  RightCornerRibbon } from "react-ribbons"; 
 
 const Header = ({ t }) => {
   return (
     <Fragment>
       <nav className="navbar navbar-expand-lg fixed-top">
         <div className="container">
+        <RibbonContainer className="custom-class">
           <span className="navbar-brand">{user.name}</span>
           <button
             className="navbar-toggler"
@@ -53,6 +55,10 @@ const Header = ({ t }) => {
               </li>
             </ul>
           </div>
+          <RightCornerRibbon backgroundColor="#5b7cb3" fontFamily="Poppins">
+            <a href="https://github.com/james2001/james2001.github.io" target="_blank">Fork me !</a>
+          </RightCornerRibbon>
+          </RibbonContainer>
         </div>
       </nav>
 

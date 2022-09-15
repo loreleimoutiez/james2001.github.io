@@ -75,6 +75,12 @@ nav.navbar.navbar-expand-lg {
   padding: 20px 0px;
   background: $main;
 }
+.custom-class a {
+  color: #f0f0f0;
+}
+.custom-class {
+  width: 200%;
+}
 .header-content {
   min-height: 100vh;
   display: flex;
